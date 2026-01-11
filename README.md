@@ -1,3 +1,3 @@
 # version-control-exercises
 
-# hoi allemaal dit is mijn nieuwe repository
+# hi guys this is my new README file
