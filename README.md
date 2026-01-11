@@ -1,3 +1,3 @@
 # version-control-exercises
 
-# hi guys this is my new README file
+# Hi guys this is my new README file
